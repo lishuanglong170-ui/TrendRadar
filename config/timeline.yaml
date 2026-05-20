@@ -15,7 +15,7 @@
 # 可视化配置编辑器地址: https://sansan0.github.io/TrendRadar/
 #
 #
-# ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
+# ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ 
 # 📖 基本概念（帮助你理解后面的配置）
 # ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
 #
@@ -237,7 +237,7 @@ presets:
     periods:
       morning_briefing:
         name: "到岗速览"
-        start: "08:00"
+        start: "09:00"
         end: "11:00"
         analyze: true              # AI 分析当前热点
         ai_mode: "current"         # AI 分析当前榜单
