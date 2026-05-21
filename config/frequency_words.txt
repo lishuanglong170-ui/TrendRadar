@@ -155,4 +155,4 @@
 
 /智能眼镜|AI眼镜|音频眼镜|摄像眼镜|显示眼镜/ => 智能眼镜
 
-/ 苹果 | 三星 | 华为 | 小米 | OPPO|vivo | 荣耀 | 库克 | 赵明 | 余承东 | 雷军 | iPhone|Galaxy|Mate|Pura|Mix|Redmi|K|Note|Find|X|Neo|S|iQOO/ => 手机
+/苹果|三星|华为|小米|OPPO|vivo/ => 手机
